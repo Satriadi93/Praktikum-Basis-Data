@@ -1,2 +1,1 @@
 # Praktikum-Basis-Data
-tes
